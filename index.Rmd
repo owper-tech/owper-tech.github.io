@@ -1,5 +1,5 @@
 ---
-title: "Office of Water Policy and Ecosystems Restoration (OWPER) Github Webpage <img src='https://floridadep.gov/system/files/styles/general_page_images__scaled_to_900_pixels_/private/media-folders/media-root/in-house-graphic-DEP%20Logo%20color%20Large.png?itok=wm1GoIhx' align='right' height = '100'/>"
+title: "Office of Water Policy and Ecosystems Restoration (OWPER) Github Webpage <img src='dep_logo.png' align='right' height = '100'/>"
 output: 
   html_document:
     includes:
@@ -7,13 +7,6 @@ output:
 ---
 
 ***
-
-<!--
-```{r ,out.width="10%",fig.align="left",echo=F}
-knitr::include_graphics("https://floridadep.gov/system/files/styles/general_page_images__scaled_to_900_pixels_/private/media-folders/media-root/in-house-graphic-DEP%20Logo%20color%20Large.png?itok=wm1GoIhx")
-```
-
-![](dep_owper_logo.png)-->
 
 Site build `r Sys.Date()`
 
@@ -45,6 +38,10 @@ Site build `r Sys.Date()`
 ## Presentations
 
 - **LOSOM**
+
+    - USACE project webpage [https://www.saj.usace.army.mil/LOSOM/](https://www.saj.usace.army.mil/LOSOM/){target="_blank"}
+
+    - Estuary Nutrient Loading Model Repository [link](https://github.com/SwampThingPaul/LOSOM_ENLM){target="_blank"}
 
     - DRAFT - Estuary Nutrient Loading Model (Caloosahatchee Estuary) [link](https://swampthingecology.org/slides/LOSOMWQ/Julian_LOSOM_ENLM#1){target="_blank"}
 
