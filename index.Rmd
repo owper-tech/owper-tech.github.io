@@ -19,19 +19,25 @@ Site build `r Sys.Date()`
 ## Reporting
 
 - *Daily Salinity Report*
-    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/SalinityUpdate.html) Source
+    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/SalinityUpdate.html){target="_blank"} Source
 
 - *Daily Water Level Report*
-    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/WaterLevelUpdate.html) Source
+    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/WaterLevelUpdate.html){target="_blank"} Source
     
 - *Daily System Report Tables*
-    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/DailySystemReport_Table.html) Source
+    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/DailySystemReport_Table.html){target="_blank"} Source
+    
+- *South Florida Environmental Report*
+    - [SFWMD SFER page](https://www.sfwmd.gov/science-data/scientific-publications-sfer){target="_blank"}
+    
+- *Everglades Technical Oversight Committee*
+    - [SFWMD page](https://www.sfwmd.gov/our-work/toc){target="_blank"}
     
 ## Respositories
 
- - [github.com/owper-tech](https://https://github.com/owper-tech/): Github organization
+ - [github.com/owper-tech](https://https://github.com/owper-tech/){target="_blank"}: Github organization
  
- - [owper-tech.github.io](https://github.com/owper-tech/owper-tech.github.io): files for this Github website
+ - [owper-tech.github.io](https://github.com/owper-tech/owper-tech.github.io){target="_blank"}: files for this Github website
 
 ## Presentations
 
@@ -48,7 +54,9 @@ Site build `r Sys.Date()`
 
 * [TBEP technical github](https://tbep-tech.github.io/){target="_blank"}
 
-### *R Lessons & Tutorials*
+### *Resources from TBEP page*
+
+#### *R Lessons & Tutorials*
 
 * [Software Carpentry: **R for Reproducible Scientific Analysis**](http://data-lessons.github.io/gapminder-R/){target="_blank"}
 * [Data Carpentry: **Geospatial Workshop**](https://datacarpentry.org/geospatial-workshop/){target="_blank"}
@@ -61,7 +69,7 @@ Site build `r Sys.Date()`
 * [Totally awesome **R-related artwork** by Allison Horst](https://github.com/allisonhorst/stats-illustrations){target="_blank"}
 * [**Color reference** PDF with text names](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf){target="_blank"}, [**Color cheatsheet** PDF from NCEAS](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf){target="_blank"}
 
-### *R eBooks/Courses*
+#### *R eBooks/Courses*
 
 * [Jenny Bryan's **Stat545.com**](http://stat545.com/){target="_blank"}
 * [Garrett Grolemund and Hadley Wickham's **R For Data Science**](http://r4ds.had.co.nz/){target="_blank"}
@@ -75,7 +83,7 @@ Site build `r Sys.Date()`
 * [Lovelace et al. **Geocomputation with R**](https://geocompr.robinlovelace.net/){target="_blank"}
 * [Edszer Pebesma and Roger Bivand **Spatial Data Science**](https://keen-swartz-3146c4.netlify.app/index.html){target="_blank"}
 
-### *Git/Github* 
+#### *Git/Github* 
 
 * [Jenny Bryan's **Happy Git and Github for the useR**](http://happygitwithr.com/){target="_blank"}
 * [Coding Club **Intro to Github**](https://ourcodingclub.github.io/2017/02/27/git.html){target="_blank"}
