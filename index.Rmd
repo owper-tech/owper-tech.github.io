@@ -1,5 +1,5 @@
 ---
-title: "Office of Water Policy and Ecosystems Restoration (OWPER) Github Webpage <img src='dep_logo.png' align='right' height = '100'/>"
+title: "Office of Water Policy and Ecosystems Restoration (OWPER) Technical Github Webpage <img src='dep_logo.png' align='right' height = '100'/>"
 output: 
   html_document:
     includes:
@@ -22,9 +22,12 @@ Site build `r Sys.Date()`
     
 - *Daily System Report Tables*
     - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/DailySystemReport_Table.html){target="_blank"} Source
-    
+
+
+### Other Reports 
+
 - *South Florida Environmental Report*
-    - [SFWMD SFER page](https://www.sfwmd.gov/science-data/scientific-publications-sfer){target="_blank"}
+    - [SFWMD page](https://www.sfwmd.gov/science-data/scientific-publications-sfer){target="_blank"}
     
 - *Everglades Technical Oversight Committee*
     - [SFWMD page](https://www.sfwmd.gov/our-work/toc){target="_blank"}
@@ -34,14 +37,14 @@ Site build `r Sys.Date()`
  - [github.com/owper-tech](https://https://github.com/owper-tech/){target="_blank"}: Github organization
  
  - [owper-tech.github.io](https://github.com/owper-tech/owper-tech.github.io){target="_blank"}: files for this Github website
+ 
+ - LOSOM Estuary Nutrient Loading Model Repository [link](https://github.com/SwampThingPaul/LOSOM_ENLM){target="_blank"}
 
 ## Presentations
 
 - **LOSOM**
 
     - USACE project webpage [https://www.saj.usace.army.mil/LOSOM/](https://www.saj.usace.army.mil/LOSOM/){target="_blank"}
-
-    - Estuary Nutrient Loading Model Repository [link](https://github.com/SwampThingPaul/LOSOM_ENLM){target="_blank"}
 
     - DRAFT - Estuary Nutrient Loading Model (Caloosahatchee Estuary) [link](https://swampthingecology.org/slides/LOSOMWQ/Julian_LOSOM_ENLM#1){target="_blank"}
 
