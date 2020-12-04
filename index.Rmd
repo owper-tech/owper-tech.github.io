@@ -40,7 +40,7 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
     
 ## Respositories
 
- - [github.com/owper-tech](https://https://github.com/owper-tech/){target="_blank"}: Github organization
+ - [github.com/owper-tech](https://github.com/owper-tech/){target="_blank"}: Github organization
  
  - [owper-tech.github.io](https://github.com/owper-tech/owper-tech.github.io){target="_blank"}: files for this Github website
  
