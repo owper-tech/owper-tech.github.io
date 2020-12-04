@@ -10,6 +10,8 @@ output:
 
 Site Update `r Sys.Date()`
 
+Want to contribute to this page? Create an issue [here](https://github.com/owper-tech/owper-tech.github.io/issues/new/choose) (**must have a Github account**). 
+
 # {.tabset}
 
 ## Reporting
