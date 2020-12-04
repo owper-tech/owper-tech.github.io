@@ -8,20 +8,22 @@ output:
 
 ***
 
-Site build `r Sys.Date()`
+Site Update `r Sys.Date()`
 
 # {.tabset}
 
 ## Reporting
 
-- *Daily Salinity Report*
-    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/SalinityUpdate.html){target="_blank"} Source
+### Daily Reports
 
-- *Daily Water Level Report*
-    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/WaterLevelUpdate.html){target="_blank"} Source
+- *Daily Estuary Salinity Report*
+    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/SalinityUpdate.html){target="_blank"} *Source*
+
+- *Daily Everglades Water Level Report*
+    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/WaterLevelUpdate.html){target="_blank"} *Source*
     
 - *Daily System Report Tables*
-    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/DailySystemReport_Table.html){target="_blank"} Source
+    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/DailySystemReport_Table.html){target="_blank"} *Source*
 
 
 ### Other Reports 
@@ -31,6 +33,8 @@ Site build `r Sys.Date()`
     
 - *Everglades Technical Oversight Committee*
     - [SFWMD page](https://www.sfwmd.gov/our-work/toc){target="_blank"}
+    - Appendix A Update *Source*
+    - Appendix B Update *Source*
     
 ## Respositories
 
