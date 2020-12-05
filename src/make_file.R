@@ -16,3 +16,4 @@ rmarkdown::render(report.file,output_file = out.loc)
 report.file="C:/Julian_LaCie/_GitHub/owper-SettlementAgreement/LNWRUpdate.Rmd"
 out.loc="C:/Julian_LaCie/_GitHub/owper-tech.github.io/reports/LNWRUpdate.html"
 rmarkdown::render(report.file,output_file = out.loc)
+
