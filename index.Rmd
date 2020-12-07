@@ -61,9 +61,17 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
  
  - [owper-tech.github.io](https://github.com/owper-tech/owper-tech.github.io){target="_blank"}: files for this Github website
  
- - LOSOM Estuary Nutrient Loading Model Repository [link](https://github.com/SwampThingPaul/LOSOM_ENLM){target="_blank"}
+ - Western Everglades Restoration Planning - Water Quality | [link](https://github.com/SwampThingPaul/WERP_WQ){target="_blank"} |
+ 
+ - LOSOM Estuary Nutrient Loading Model Repository | [link](https://github.com/SwampThingPaul/LOSOM_ENLM){target="_blank"} |
 
-## Presentations
+## Presentations/Tech Report
+
+- **WERP**
+
+    - USACE project webpage [https://www.saj.usace.army.mil/WERP/](https://www.saj.usace.army.mil/WERP/){target="_blank"}
+    
+    - Numeric Interpretation of Narrative Standards | [Report](./docs/WERP/FDEP WERP WQ WhitePaper_FINAL 071117.pdf){target="_blank"} | [Source](https://github.com/SwampThingPaul/WERP_WQ){target="_blank"} |
 
 - **LOSOM**
 
