@@ -71,7 +71,7 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
 
     - USACE project webpage [https://www.saj.usace.army.mil/WERP/](https://www.saj.usace.army.mil/WERP/){target="_blank"}
     
-    - Numeric Interpretation of Narrative Standards | [Report](./docs/WERP/FDEP WERP WQ WhitePaper_FINAL 071117.pdf){target="_blank"} | [Source](https://github.com/SwampThingPaul/WERP_WQ){target="_blank"} |
+    - Numeric Interpretation of Narrative Standards | [Cover Letter](./docs/WERP/FDEP WERP WQ WhitePaper Transmittal Letter FINAL 071117.pdf){target="_blank"}; [Report](./docs/WERP/FDEP WERP WQ WhitePaper_FINAL 071117.pdf){target="_blank"} | [Source](https://github.com/SwampThingPaul/WERP_WQ){target="_blank"} |
 
 - **LOSOM**
 
