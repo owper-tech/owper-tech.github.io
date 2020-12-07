@@ -18,17 +18,11 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
 
 ### Daily Reports
 
-- *Daily Estuary Salinity Report*
-    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/SalinityUpdate.html){target="_blank"} 
-    - [*Source*](https://github.com/owper-tech/owper-EstuarySalinityUpdate){target="_blank"}
+- Daily Estuary Salinity Report | [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/SalinityUpdate.html){target="_blank"} | [*Source*](https://github.com/owper-tech/owper-EstuarySalinityUpdate){target="_blank"} |
 
-- *Daily Everglades Water Level Report*
-    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/WaterLevelUpdate.html){target="_blank"} 
-    - [*Source*](https://github.com/owper-tech/owper-WaterLevelUpdate){target="_blank"}
+- Daily Everglades Water Level Report | [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/WaterLevelUpdate.html){target="_blank"} | [*Source*](https://github.com/owper-tech/owper-WaterLevelUpdate){target="_blank"} |
     
-- *Daily System Report Tables*
-    - [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/DailySystemReport_Table.html){target="_blank"}
-    - [*Source*](https://github.com/owper-tech/owper-SystemReport){target="_blank"}
+- Daily System Report Tables | [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/DailySystemReport_Table.html){target="_blank"} | [*Source*](https://github.com/owper-tech/owper-SystemReport){target="_blank"} |
 
 
 ### Trends
@@ -43,12 +37,11 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
 
 ### Other Reports 
 
-- *South Florida Environmental Report*
+- South Florida Environmental Report
     - [SFWMD page](https://www.sfwmd.gov/science-data/scientific-publications-sfer){target="_blank"}
-    
     - TP Rule Assessment <mark>Coming Soon</mark>
     
-- *Everglades Technical Oversight Committee*
+- Everglades Technical Oversight Committee
     - [SFWMD page](https://www.sfwmd.gov/our-work/toc){target="_blank"}
     - Appendix A Update 
         - Shark River Slough | [Report](https://owper-tech.github.io/reports/SRSUpdate.html){target="_blank"} | *Source* |
@@ -77,12 +70,14 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
 
     - USACE project webpage [https://www.saj.usace.army.mil/LOSOM/](https://www.saj.usace.army.mil/LOSOM/){target="_blank"}
 
-    - DRAFT - Estuary Nutrient Loading Model (Caloosahatchee Estuary) [link](https://swampthingecology.org/slides/LOSOMWQ/Julian_LOSOM_ENLM#1){target="_blank"}
+    - DRAFT - Estuary Nutrient Loading Model (Caloosahatchee Estuary) | [link](https://swampthingecology.org/slides/LOSOMWQ/Julian_LOSOM_ENLM#1){target="_blank"} | [Source](https://github.com/SwampThingPaul/LOSOM_ENLM){target="_blank"} |
+      - DRAFT - Esturay Nutrient Loading Model (Caloosahatchee Estuary) - Addendum | link | Source |
 
+<!--https://swampthingecology.org/slides/LOSOMWQ/Julian_LOSOM_CRE_ENLM_ad1#1-->
 
 - **BBSEER**
   
-    - Project Specific OFW and NNC information [link](https://swampthingecology.org/slides/BBSEER/BBSEER_OFW_map.html){target="_blank"}
+    - Project Specific OFW and NNC information [link](https://swampthingecology.org/slides/BBSEER/BBSEER_OFW_map.html){target="_blank"} | Source |
     
 ## Resources
 
