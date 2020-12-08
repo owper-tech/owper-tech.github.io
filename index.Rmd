@@ -39,7 +39,7 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
 
 - South Florida Environmental Report
     - [SFWMD page](https://www.sfwmd.gov/science-data/scientific-publications-sfer){target="_blank"}
-    - TP Rule Assessment <mark>Coming Soon</mark>
+    - TP Rule Assessment | [Report](https://owper-tech.github.io/EvergladesTPRule/){target="_blank"} | [Source](https://github.com/owper-tech/EvergladesTPRule){target="_blank"} |
     
 - Everglades Technical Oversight Committee
     - [SFWMD page](https://www.sfwmd.gov/our-work/toc){target="_blank"}
