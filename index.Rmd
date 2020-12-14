@@ -18,11 +18,11 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
 
 ### Daily Reports
 
-- Daily Estuary Salinity Report | [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/SalinityUpdate.html){target="_blank"} | [*Source*](https://github.com/owper-tech/owper-EstuarySalinityUpdate){target="_blank"} |
+- Daily Estuary Salinity Report | [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/SalinityUpdate.html){target="_blank"} | [Source](https://github.com/owper-tech/owper-EstuarySalinityUpdate){target="_blank"} |
 
-- Daily Everglades Water Level Report | [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/WaterLevelUpdate.html){target="_blank"} | [*Source*](https://github.com/owper-tech/owper-WaterLevelUpdate){target="_blank"} |
+- Daily Everglades Water Level Report | [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/WaterLevelUpdate.html){target="_blank"} | [Source](https://github.com/owper-tech/owper-WaterLevelUpdate){target="_blank"} |
     
-- Daily System Report Tables | [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/DailySystemReport_Table.html){target="_blank"} | [*Source*](https://github.com/owper-tech/owper-SystemReport){target="_blank"} |
+- Daily System Report Tables | [Report](http://publicfiles.dep.state.fl.us/owp/SalinityReports/DailySystemReport_Table.html){target="_blank"} | [Source](https://github.com/owper-tech/owper-SystemReport){target="_blank"} |
 
 
 ### Trends
@@ -46,9 +46,9 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
 - Everglades Technical Oversight Committee
     - [SFWMD page](https://www.sfwmd.gov/our-work/toc){target="_blank"}
     - Appendix A Update 
-        - Shark River Slough | [Report](https://owper-tech.github.io/reports/SRSUpdate.html){target="_blank"} | *Source* |
-        - Taylor Slough and Coastal Basins | Report | *Source* |
-    - Appendix B Update | [Report](https://owper-tech.github.io/reports/LNWRUpdate.html){target="_blank"} | *Source* |
+        - Shark River Slough | [Report](https://owper-tech.github.io/reports/SRSUpdate.html){target="_blank"} | Source |
+        - Taylor Slough and Coastal Basins | Report | Source |
+    - Appendix B Update | [Report](https://owper-tech.github.io/reports/LNWRUpdate.html){target="_blank"} | Source |
     
 ## Respositories
 
