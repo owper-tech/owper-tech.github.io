@@ -64,22 +64,31 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
 
 - **WERP**
 
-    - USACE project webpage [https://www.saj.usace.army.mil/WERP/](https://www.saj.usace.army.mil/WERP/){target="_blank"}
+  - USACE project webpage [https://www.saj.usace.army.mil/WERP/](https://www.saj.usace.army.mil/WERP/){target="_blank"}
     
     - Numeric Interpretation of Narrative Standards | [Cover Letter](./docs/WERP/FDEP WERP WQ WhitePaper Transmittal Letter FINAL 071117.pdf){target="_blank"}; [Report](./docs/WERP/FDEP WERP WQ WhitePaper_FINAL 071117.pdf){target="_blank"} | [Source](https://github.com/SwampThingPaul/WERP_WQ){target="_blank"} |
 
 - **LOSOM**
 
-    - USACE project webpage [https://www.saj.usace.army.mil/LOSOM/](https://www.saj.usace.army.mil/LOSOM/){target="_blank"}
+  * USACE project webpage [https://www.saj.usace.army.mil/LOSOM/](https://www.saj.usace.army.mil/LOSOM/){target="_blank"}
 
-    - DRAFT - Estuary Nutrient Loading Model (Caloosahatchee Estuary) | [link](https://swampthingecology.org/slides/LOSOMWQ/Julian_LOSOM_ENLM#1){target="_blank"} | [Source](https://github.com/SwampThingPaul/LOSOM_ENLM){target="_blank"} |
-      - DRAFT - Esturay Nutrient Loading Model (Caloosahatchee Estuary) - Addendum | link | Source |
+  * DRAFT - Estuary Nutrient Loading Model (Caloosahatchee Estuary) | [link](https://swampthingecology.org/slides/LOSOMWQ/Julian_LOSOM_ENLM#1){target="_blank"} | [Source](https://github.com/SwampThingPaul/LOSOM_ENLM){target="_blank"} |
+    + DRAFT - Esturay Nutrient Loading Model (Caloosahatchee Estuary) - Addendum |  [link](https://owper-tech.github.io/slides/LOSOM/Julian_LOSOM_CRE_ENLM_ad1#1){target="_blank"} | [Source](https://github.com/SwampThingPaul/LOSOM_ENLM){target="_blank"} | 
+    <!-- https://swampthingecology.org/slides/LOSOMWQ/Julian_LOSOM_CRE_ENLM_ad1#1 -->
 
-<!--https://swampthingecology.org/slides/LOSOMWQ/Julian_LOSOM_CRE_ENLM_ad1#1-->
+  * DRAFT - Estuary Nutrient Loading Model (St Lucie Estuary) | link | Source |
+    
+<!-- https://owper-tech.github.io/slides/LOSOM/Julian_LOSOM_SLE_ENLM#1 -->
 
 - **BBSEER**
+
+  * USACE project webpage [https://www.saj.usace.army.mil/BBSEER/](https://www.saj.usace.army.mil/BBSEER/){target="_blank"}
   
-    - Project Specific OFW and NNC information [link](https://swampthingecology.org/slides/BBSEER/BBSEER_OFW_map.html){target="_blank"} | Source |
+  * Project Specific OFW and NNC information [link](https://swampthingecology.org/slides/BBSEER/BBSEER_OFW_map.html){target="_blank"} | Source |
+    
+  * Water quality level planning targets (structures) | link | Source |
+    
+<!-- https://owper-tech.github.io/slides/BBSEER/BBSEER_WQPlanTarget#1 -->
     
 ## Resources
 
