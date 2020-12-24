@@ -39,10 +39,16 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
 
 - South Dade Conveyance System Environmental Information | [Report](https://owper-tech.github.io/SouthDade_WQ/){target="_blank"} | [Source](https://github.com/owper-tech/SouthDade_WQ){target="_blank"} |
 
+- Caloosahatchee River Estuary Water Quality Tracking | [Report](https://owper-tech.github.io/CREWQ_tracking/){target="_blank"} | [Source](https://github.com/owper-tech/CREWQ_tracking){target="_blank"} |
+
+<br>
+
 - South Florida Environmental Report
     - [SFWMD page](https://www.sfwmd.gov/science-data/scientific-publications-sfer){target="_blank"}
     - TP Rule Assessment | [Report](https://owper-tech.github.io/EvergladesTPRule/){target="_blank"} | [Source](https://github.com/owper-tech/EvergladesTPRule){target="_blank"} |
-    
+
+<br>
+
 - Everglades Technical Oversight Committee
     - [SFWMD page](https://www.sfwmd.gov/our-work/toc){target="_blank"}
     - Appendix A Update 
@@ -59,6 +65,8 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
  - Western Everglades Restoration Planning - Water Quality | [link](https://github.com/SwampThingPaul/WERP_WQ){target="_blank"} |
  
  - LOSOM Estuary Nutrient Loading Model Repository | [link](https://github.com/SwampThingPaul/LOSOM_ENLM){target="_blank"} |
+ 
+ - BBSEER - Water Quality | [link](https://github.com/SwampThingPaul/BBSEER_WQ){target="_blank"} |
 
 ## Presentations/Tech Report
 
