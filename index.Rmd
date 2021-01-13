@@ -80,13 +80,10 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
 
   * USACE project webpage [https://www.saj.usace.army.mil/LOSOM/](https://www.saj.usace.army.mil/LOSOM/){target="_blank"}
 
-  * DRAFT - Estuary Nutrient Loading Model (Caloosahatchee Estuary) | [link](https://swampthingecology.org/slides/LOSOMWQ/Julian_LOSOM_ENLM#1){target="_blank"} | [Source](https://github.com/SwampThingPaul/LOSOM_ENLM){target="_blank"} |
-    + DRAFT - Esturay Nutrient Loading Model (Caloosahatchee Estuary) - Addendum |  [link](https://owper-tech.github.io/slides/LOSOM/Julian_LOSOM_CRE_ENLM_ad1#1){target="_blank"} | [Source](https://github.com/SwampThingPaul/LOSOM_ENLM){target="_blank"} | 
-    <!-- https://swampthingecology.org/slides/LOSOMWQ/Julian_LOSOM_CRE_ENLM_ad1#1 -->
-
-  * DRAFT - Estuary Nutrient Loading Model (St Lucie Estuary) | link | Source |
+  * DRAFT - Estuary Nutrient Loading Model (Caloosahatchee Estuary) | [link](https://owper-tech.github.io/slides/LOSOM/ENLM/Julian_LOSOM_ENLM#1){target="_blank"} | [Source](https://github.com/SwampThingPaul/LOSOM_ENLM){target="_blank"} | [Addendum Presentation](https://owper-tech.github.io/slides/LOSOM/ENLM/Julian_LOSOM_CRE_ENLM_ad1#1){target="_blank"} | 
     
-<!-- https://owper-tech.github.io/slides/LOSOM/Julian_LOSOM_SLE_ENLM#1 -->
+  * DRAFT - Estuary Nutrient Loading Model (St Lucie Estuary) | [link](https://owper-tech.github.io/slides/LOSOM/ENLM/Julian_LOSOM_SLE_ENLM#1){target="_blank"} | [Source](https://github.com/SwampThingPaul/LOSOM_ENLM){target="_blank"} |
+
 
 - **BBSEER**
 
