@@ -29,7 +29,8 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
 
 - Everglades Structure WQ Trends <mark>Coming Soon</mark>
 
-- Everglades Marsh WQ Trends <mark>Coming Soon</markr>
+- Everglades Marsh WQ Trends |
+[Report](https://owper-tech.github.io/EvergladesMarshTrends/){target="_blank"} | [Source](https://github.com/owper-tech/EvergladesMarshTrends){target="_blank"} |
 
 - Lake Okeechobee WQ Trends <mark>Coming Soon</mark>
 
