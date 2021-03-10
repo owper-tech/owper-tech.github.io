@@ -74,9 +74,9 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
 <!--
 - **Everglades Technical Oversight Committee Related**
   
-  - Appendix A derviation (reanalysis by Paul Julian) | [Link](./docs/SettlementAgreement/Derivation.html){target="_blank"} |
+  - Appendix A deviation (reanalysis by Paul Julian) | [Link](./docs/SettlementAgreement/Derivation.html){target="_blank"} |
   
-  - Discharge Uncertainity Re-Analysis | [Link](./docs/SettlementAgreement/SRS_Uncertainty_V3.html){target="_blank"} | [Walkers (2018)](./docs/SettlementAgreement/SRS_error_analysis_www_draft_09-06-2018.pdf){target="_blank"} |
+  - Discharge Uncertainty Re-Analysis | [Link](./docs/SettlementAgreement/SRS_Uncertainty_V3.html){target="_blank"} | [Walkers (2018)](./docs/SettlementAgreement/SRS_error_analysis_www_draft_09-06-2018.pdf){target="_blank"} |
 
 -->
 
@@ -99,11 +99,12 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
 
   * USACE project webpage [https://www.saj.usace.army.mil/BBSEER/](https://www.saj.usace.army.mil/BBSEER/){target="_blank"}
   
-  * Project Specific OFW and NNC information [link](https://swampthingecology.org/slides/BBSEER/BBSEER_OFW_map.html){target="_blank"} | Source |
+  * Project Specific OFW and NNC information [link](https://swampthingecology.org/slides/BBSEER/BBSEER_OFW_map.html){target="_blank"} | [Source](https://github.com/SwampThingPaul/BBSEER_WQ){target="_blank"} |
     
   * Water quality level planning targets (structures) | link | Source |
     
-<!-- https://owper-tech.github.io/slides/BBSEER/BBSEER_WQPlanTarget#1 -->
+<!-- presentation https://owper-tech.github.io/slides/BBSEER/BBSEER_WQPlanTarget#1 -->
+<!-- source repo https://github.com/SwampThingPaul/BBSEER_WQ -->
     
 ## Resources
 
