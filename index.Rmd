@@ -40,7 +40,7 @@ Want to contribute to this page? Create an issue [here](https://github.com/owper
 
 - Caloosahatchee River Estuary Water Quality Tracking | [Report](https://owper-tech.github.io/CREWQ_tracking/){target="_blank"} | [Source](https://github.com/owper-tech/CREWQ_tracking){target="_blank"} |
 
-- Lake Okeechobee WQ Evaluation | [Report](https://owper-tech.github.io/LakeO_WQ/WBIDEval/index.html){target="_blank"} | [Source](https://github.com/owper-tech/LakeO_WQ){target="_blank"}
+- Lake Okeechobee WQ Evaluation | [Report](https://owper-tech.github.io/LakeO_WQ/WBIDEval/index.html){target="_blank"} | [Source](https://github.com/owper-tech/LakeO_WQ){target="_blank"} |
     
 <br>
 
